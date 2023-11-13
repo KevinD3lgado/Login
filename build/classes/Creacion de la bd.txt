@@ -3,6 +3,7 @@ Nombre de la base de datos es login
 se debe escoger en la parte del cotejamineto el utf8_spanish_ci
 por los acentos que pueda tener nuestra bd.
 
+Se utilzo SGBD XAMPP
 puerto 3306
 
 //Se debe dejar vacio el espacio de la tabla por que
