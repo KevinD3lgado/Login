@@ -1,0 +1,10 @@
+//Crear la base de datos
+Nombre de la base de datos es login
+se debe escoger en la parte del cotejamineto el utf8_spanish_ci
+por los acentos que pueda tener nuestra bd.
+
+EL SGBD que utilize fue XAMPP
+en el puerto 3306
+
+//Se debe dejar vacio el espacio de la tabla por que
+//cuando se ejecute el programa la tabla se creara automaticamente.
